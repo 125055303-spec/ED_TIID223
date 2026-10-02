@@ -1,3 +1,3 @@
-numeros=[10,20,30]
-numeros[len(numeros):]=[40]
-print(numeros)  
+colores=["Azul","Amarillo","Rosa"]
+colores.extend(["Verde", "Morado", "Rojo","Negro"])
+print(colores[6])
